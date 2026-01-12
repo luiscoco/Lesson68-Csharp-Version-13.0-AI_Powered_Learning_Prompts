@@ -4,10 +4,10 @@ Precision, Concurrency, and Removing Artificial Limits
 
 ## Role for Your AI Assistant
 
-Your AI assistant acts as a Language Unblocker — helping you understand why things that were once “not allowed” are now safe, logical, and necessary.
+Your AI assistant acts as a Language Unblocker, helping you understand why things that were once “not allowed” are now safe, logical, and necessary.
 ________________________________________
 
-Conceptual Orientation Prompt
+### Conceptual Orientation Prompt
 
 Precision Over Convenience
 
@@ -28,7 +28,7 @@ Outcome:
 You should be able to explain why lifting constraints is harder — and more valuable — than adding syntax.
 ________________________________________
 
-Practice Prompt 1: Generalization Thinking
+### Practice Prompt 1: Generalization Thinking
 
 params Collections
 
@@ -49,7 +49,7 @@ Outcome:
 You should clearly articulate how generalizing familiar syntax unlocks safer high-performance APIs.
 ________________________________________
 
-Practice Prompt 2: Concurrency Semantics
+### Practice Prompt 2: Concurrency Semantics
 
 System.Threading.Lock
 
@@ -70,7 +70,7 @@ Outcome:
 You should understand why concurrency is now modeled, not just wrapped.
 ________________________________________
 
-Practice Prompt 3: Small Feature, Real Value
+### Practice Prompt 3: Small Feature, Real Value
 
 The \e Escape Sequence
 
@@ -91,7 +91,7 @@ Outcome:
 You should appreciate how language evolution responds to actual usage, not theoretical completeness.
 ________________________________________
 
-Practice Prompt 4: Ref Safety Judgment
+### Practice Prompt 4: Ref Safety Judgment
 
 Async, Iterators, and ref
 
@@ -116,7 +116,7 @@ Outcome:
 You should be able to explain why safety improvements arrive late — and why that’s a good thing.
 ________________________________________
 
-Practice Prompt 5: Systems-Level Abstractions
+### Practice Prompt 5: Systems-Level Abstractions
 
 ref struct Evolution
 
@@ -137,7 +137,7 @@ Outcome:
 You should see how C# is becoming increasingly viable for systems-level libraries.
 ________________________________________
 
-Practice Prompt 6: Structural Symmetry
+### Practice Prompt 6: Structural Symmetry
 
 Partial Properties and Indexers
 
@@ -158,7 +158,7 @@ Outcome:
 You should recognize how symmetry supports tooling and large-scale systems.
 ________________________________________
 
-Practice Prompt 7: API Design Precision
+### Practice Prompt 7: API Design Precision
 
 Overload Resolution Priority
 
@@ -179,7 +179,7 @@ Outcome:
 You should understand how the language now supports intentional API evolution.
 ________________________________________
 
-Practice Prompt 8: Evaluating C# 13 Using the Evolution Framework
+### Practice Prompt 8: Evaluating C# 13 Using the Evolution Framework
 
 Ask your AI assistant:
 
@@ -198,7 +198,7 @@ Outcome:
 You should confidently categorize C# 13 as a semantic precision release.
 ________________________________________
 
-Final Reflection Prompt
+### Final Reflection Prompt
 
 Language Maturity
 
@@ -219,7 +219,7 @@ Outcome:
 You should walk away understanding why C# 13 marks a fully mature, systems-capable phase of the language.
 ________________________________________
 
-Key Takeaway Summary
+## Key Takeaway Summary
 
 •	C# 13 removes unnecessary constraints instead of adding novelty
 
